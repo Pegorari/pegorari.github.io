@@ -1,0 +1,12 @@
+{
+  "name": "rhaiwasm",
+  "version": "0.1.0",
+  "files": [
+    "rhaiwasm_bg.wasm",
+    "rhaiwasm.js",
+    "rhaiwasm.d.ts"
+  ],
+  "module": "rhaiwasm.js",
+  "types": "rhaiwasm.d.ts",
+  "sideEffects": false
+}
